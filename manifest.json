@@ -1,0 +1,14 @@
+{
+  "name": "Confetti Celebration",
+  "organization": "YourOrganization",
+  "description": "Displays confetti when all Remarks are 'Congratulations'",
+  "resources": {
+    "js": ["index.js"]
+  },
+  "components": [
+    {
+      "id": "confettiViz",
+      "type": "viz"
+    }
+  ]
+}
